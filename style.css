@@ -4,9 +4,18 @@
 body{
     font-family: "Monserrat" sans-serif;
     overflow-x: hidden;
+    background: linear-gradient(red, orange, yellow);
+}
+
+header{
+    background-color:black;
 }
 
 /* menu */
+
+nav{
+    background-color: lightsalmon;
+}
 
 #menu li a{
     font-size: 18px;
@@ -35,10 +44,18 @@ footer p{
     color: white;
     text-align: center;
 }
+
+#iconos{
+    text-align: right;
+}
+
+
 #iconos i{
     font-size: 26px;
     padding: 0 8px;
     color: white;
+    
+    
 }
 
                                 /*  contacto */
